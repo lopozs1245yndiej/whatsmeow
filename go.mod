@@ -14,3 +14,6 @@ require (
 	golang.org/x/crypto v0.24.0
 	golang.org/x/net v0.26.0
 )
+
+// Personal fork - tracking upstream tulir/whatsmeow
+// Local changes: experimenting with chromem-go integration for message search
