@@ -19,3 +19,4 @@ require (
 // Local changes: experimenting with chromem-go integration for message search
 // TODO: periodically run `go get -u` to pull in upstream dependency updates
 // NOTE: chromem-go added for semantic search over chat history - not upstream
+// Last synced with upstream: 2024-06-10
