@@ -18,3 +18,4 @@ require (
 // Personal fork - tracking upstream tulir/whatsmeow
 // Local changes: experimenting with chromem-go integration for message search
 // TODO: periodically run `go get -u` to pull in upstream dependency updates
+// NOTE: chromem-go added for semantic search over chat history - not upstream
